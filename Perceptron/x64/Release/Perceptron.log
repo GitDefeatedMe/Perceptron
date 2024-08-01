@@ -1,0 +1,13 @@
+﻿  Perceptron.cpp
+D:\games_c++\Perceptron\Perceptron.cpp(221,25): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+D:\games_c++\Perceptron\Perceptron.cpp(225,28): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+D:\games_c++\Perceptron\Perceptron.cpp(261,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\games_c++\Perceptron\Perceptron.cpp(332,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\games_c++\Perceptron\Perceptron.cpp(355,66): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\games_c++\Perceptron\Perceptron.cpp(427,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  21 of 458 functions ( 4.6%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    19 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Perceptron.vcxproj -> D:\games_c++\Perceptron\x64\Release\Perceptron.exe

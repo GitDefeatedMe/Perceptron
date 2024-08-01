@@ -1,0 +1,8 @@
+﻿  Perceptron.cpp
+D:\games_c++\Perceptron\Perceptron.cpp(200,25): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+D:\games_c++\Perceptron\Perceptron.cpp(204,28): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+D:\games_c++\Perceptron\Perceptron.cpp(274,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\games_c++\Perceptron\Perceptron.cpp(307,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\games_c++\Perceptron\Perceptron.cpp(351,66): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\games_c++\Perceptron\Perceptron.cpp(392,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Perceptron.vcxproj -> D:\games_c++\Perceptron\x64\Debug\Perceptron.exe
